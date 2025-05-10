@@ -15,40 +15,57 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Lenguajes y Herramientas
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
-  <a href="https://www.vexrobotics.com/vexcode" target="_blank">
-    <img src="https://img.shields.io/badge/RobotC-FF6600?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <a href="https://www.robotc.net/">
+    <img src="https://img.shields.io/badge/RobotC-FF7300?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ERICKJLLO&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICKJLLO&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ERICKJLLO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ERICKJLLO&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICKJLLO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
