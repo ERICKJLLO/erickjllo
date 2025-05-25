@@ -1,21 +1,30 @@
 <h1 align="center">Jhon Erick Jaramillo Restrepo</h1>
 <p align="center">
-  Estudiante de Ingeniería de Sistemas y Computación Científica<br>
-  Universidad de Medellín | Medellín, Colombia
+  Systems Engineering and Scientific Computing Student<br>
+  University of Medellín | Medellín, Colombia
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-- 🎓 Estudiante enfocado en la ingeniería de sistemas con un interés creciente en programación y computación científica.  
-- 🤖 Me apasiona la robótica, trabajando con VEX EDR y control de robots en el mundo real, utilizando tecnologías como RobotC.  
-- 💻 Actualmente aprendiendo sobre hacking ético y herramientas de seguridad informática como Kali Linux.  
-- 🔬 Siempre buscando aprender más sobre nuevas tecnologías y aplicar mis conocimientos en proyectos reales.
+- 🎓 I'm a student focused on systems engineering with a growing interest in programming and scientific computing.  
+- 🤖 I work with robotics, specifically using VEX EDR and real-world robot control with technologies like RobotC.  
+- 💻 Currently learning about ethical hacking and cybersecurity tools like Kali Linux.  
+- 🔬 Always looking to explore new technologies and apply my knowledge in real projects.
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+### 🤓 Fun Facts About Me
+
+- 🧠 I like taking things apart just to understand how they work (and sometimes putting them back together).  
+- 🛠️ I enjoy solving real-world problems through code, even if it means staying up late.  
+- 🤖 I work a lot with robotics and find debugging robots a practical and interesting challenge.  
+- ☕ I don’t drink coffee — yes, I’m getting through engineering without caffeine.
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -66,10 +75,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICKJLLO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-
 ---
 
-### 🌐 Conéctate conmigo
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhon-erick-jaramillo-restrepo-3a463831b">
