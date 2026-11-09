@@ -110,9 +110,6 @@ I enjoy building applications from the interface to the backend, understanding h
 
 <img width="49%" src="https://raw.githubusercontent.com/ERICKJLLO/ERICKJLLO/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositories by language" />
 <img width="49%" src="https://raw.githubusercontent.com/ERICKJLLO/ERICKJLLO/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub contribution statistics" />
-
-### Contribution animation
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ERICKJLLO/ERICKJLLO/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ERICKJLLO/ERICKJLLO/output/github-snake.svg" />
